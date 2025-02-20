@@ -21,5 +21,3 @@ Neste simples projeto de estudo desenvolvi um crud, voltado ao cadrasto de usuá
 <Image align="center" src="https://files.readme.io/995ad7a424071fee262956a7a61ea1602923bf95e6f4f94652b2aae25acd4c56-crud_tabela.PNG" />
 
 ***
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
