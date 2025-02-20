@@ -4,15 +4,11 @@ Neste simples projeto de estudo desenvolvi um crud, voltado ao cadrasto de usuá
 
 ## Ferramentas utilizadas
 
-HTML      <img src="https://skillicons.dev/icons?i=html" />
-
-CSS       <img src="https://skillicons.dev/icons?i=css" />
-
-Bootstrap <img src="https://skillicons.dev/icons?i=bootstrap" />
-
-PHP       <img src="https://skillicons.dev/icons?i=php" />
-
-MYSQL     <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 # 📷 Capturas de Imagem do Site
 
