@@ -1,13 +1,14 @@
 # Projeto CRUD feito em PHP 🐘
 
-Neste simples projeto de estudo desenvolvi um crud, voltado ao cadrasto de usuários, simples e direto ao ponto você tem todas as funções e também uma breve tela de login.
+Neste simples projeto de estudo desenvolvi um crud, voltado ao cadrasto de usuários, simples , direto ao ponto, com todas as funções e uma breve tela de login.
 
 ## Ferramentas utilizadas
 
-HTML\
-CSS e BootStrap
-PHP
-MYSQL
+HTML      <img src="https://skillicons.dev/icons?i=html" />
+CSS       <img src="https://skillicons.dev/icons?i=css" />
+Bootstrap <img src="https://skillicons.dev/icons?i=bootstrap" />
+PHP       <img src="https://skillicons.dev/icons?i=php" />
+MYSQL     <img src="https://skillicons.dev/icons?i=mysql" />
 
 # 📷 Capturas de Imagem do Site
 
@@ -24,3 +25,5 @@ MYSQL
 <Image align="center" src="https://files.readme.io/995ad7a424071fee262956a7a61ea1602923bf95e6f4f94652b2aae25acd4c56-crud_tabela.PNG" />
 
 ***
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
